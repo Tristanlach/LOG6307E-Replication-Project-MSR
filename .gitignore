@@ -1,4 +1,4 @@
-data/*.parquet
+data/**/*.parquet
 data/.cache/
 
 .ipynb_checkpoints/
