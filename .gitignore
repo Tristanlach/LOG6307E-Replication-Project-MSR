@@ -11,6 +11,3 @@ env/
 
 .DS_Store
 .vscode/
-
-data/*.csv
-figures/
