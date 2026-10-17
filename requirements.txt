@@ -1,0 +1,10 @@
+jupyter
+ipykernel
+numpy
+pandas
+pyarrow
+scipy
+statsmodels
+matplotlib
+seaborn
+huggingface-hub

@@ -1,4 +1,6 @@
 data/**/*.parquet
+!data/AIDev_Human_PRs/
+!data/AIDev_Human_PRs/**
 data/.cache/
 
 .ipynb_checkpoints/
